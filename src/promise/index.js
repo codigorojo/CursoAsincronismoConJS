@@ -16,7 +16,7 @@ const somethingWillHappen2 = () => {
   return new Promise((resolve, reject) => {
     if (true) {
       setTimeout(() => {
-        resolve("True");
+        resolve("Youuuuu!!!!!");
       }, 2000);
     } else {
       const error = new Error("Wuuupps!!!!!!!");
